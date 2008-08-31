@@ -1,9 +1,0 @@
-Multitouch Physics uses:
-
-1. Box2DFlashAS3_2.0.1 which is a Flash ActionScript 3.0 port of Erin Catto's 2D Physics library Box2D - taken from: http://sourceforge.net/projects/box2dflash/
-
-2. Flosc which is an open source communication gateway transforming all TUIO standarized UDP communication from e.g. Touchlib - taken from: http://www.benchun.net/flosc/
-
-3. Touchlib - which is a video-analysis software library for reading the touch coordinates on multitouch displays - taken from: http://code.google.com/p/touchlib/
-
-Everything was tested on TUIO Simulator - taken from: http://sourceforge.net/project/downloading.php?groupname=reactivision&filename=TUIO_Simulator-1.4pre1.zip&use_mirror=dfn
